@@ -40,12 +40,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 <h1 align="left"> Autores 🤜🤛 </h1> 
 
-- Ana Paula Serafim de Góis   
-Matrícula: 25     
-Curso: GES <br>
-[ana.ap@ges.inatel.br] 
+- [Ana Paula Serafim de Góis](https://github.com/apsgois)    
+Matrícula: 25      |  GES <br>
 
-- Pedro Henrique Ribeiro    
-Matrícula: 1627     
-Curso: GEC <br>
-[pedrohenrique.ph@gec.inatel.br] 
+- [Pedro Henrique Ribeiro](https://github.com/Pedro-HRibeiro)  
+Matrícula: 1627     | GEC <br>
