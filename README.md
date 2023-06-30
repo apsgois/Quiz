@@ -13,13 +13,16 @@ O Quiz é um aplicativo interativo e envolvente que leva você a uma jornada div
 <h1 align="lef"> Execução ⚙️</h1>
 
 1. Clone o repositório em sua máquina: <br>
-`git clone` https://github.com/Pedro-HRibeiro/App_Lab_C214.git 
+`git clone` https://github.com/apsgois/Quiz.git
+
 
 2. Realize em seguida a instalação das dependencias necessárias:<br>
 `flutter pub get` 
 
+
 3. Rodando a aplicação: <br>
 `flutter run`
+</p> <br>
 
 
 <h1 align="left"> Testes ✔️ </h1>
