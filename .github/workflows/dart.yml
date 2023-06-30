@@ -9,7 +9,7 @@ on:
     
 defaults:
   run:
-    working-directory: main
+    working-directory: ./Quiz-App/
 
 jobs:
   test:
