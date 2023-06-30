@@ -7,8 +7,11 @@ O Quiz é um aplicativo interativo e envolvente que leva você a uma jornada div
 
 1. Certifique-se de ter o Flutter e o Dart instalados em sua máquina. <br> Instruções de instalação: [https://flutter.dev/docs/get-started/install].  </p>
 
-2. Realizar o download e instalação do editor de código-fonte Visual Studio Code. <br> Link de instalação: [https://code.visualstudio.com/docs?dv=win]. </p> <br>
+2. Realizar o download e instalação do editor de código-fonte Visual Studio Code. <br> Link de instalação: [https://code.visualstudio.com/docs?dv=win].  <br>
 
+3. Aplicar a instalação do Android Studio<br>
+Link de instalação: [https://developer.android.com/studio] -  [Instruções](https://developer.android.com/studio/install?hl=pt-br)
+</p> <br>
 
 <h1 align="lef"> Execução ⚙️</h1>
 
